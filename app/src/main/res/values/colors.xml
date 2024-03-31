@@ -14,4 +14,12 @@
     <color name="shimmer_bg">#B2707070</color>
 
     <color name="yellow">#DDA411</color>
+
+
+
+    <color name="light">#242425</color>
+    <color name="dark">#151518</color>
+    <color name="background">#1a1a1a</color>
+    <color name="text_color2">#cef196</color>
+    <color name="text_color">#b9b9ba</color>
 </resources>
